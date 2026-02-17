@@ -7,6 +7,7 @@ Asegúrate de tener instalados los siguientes programas en tu sistema:
 - [Node.js](https://nodejs.org/) (versión 14.x o superior)
 - [MongoDB](https://www.mongodb.com/) (puede ser local o en la nube a través de MongoDB Atlas)
 - [npm](https://www.npmjs.com/) 
+- [TS] TypeScript
 
 Instalar TypeScript
 ```
@@ -25,19 +26,6 @@ cd EA-Mongoose
 Instalar Mongoose y otras dependencias
 ```
 npm install
-```
-
-## Estructura del proyecto
-
-```
-├── src
-├── dist
-├── package.json       # Configuración de las dependencias y scripts
-├── tsconfig.json       # Configuración de TypeScript
-├── node_modules
-├── .gitignore
-├── LICENSE
-└── README.md
 ```
 
 ## Complilación y ejecución
