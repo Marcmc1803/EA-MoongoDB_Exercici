@@ -6,7 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "mongoose": "^6.13.8"
+  "devDependencies": {
+    "@types/node": "^25.3.2",
+    "mongoose": "^9.2.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
   }
 }
